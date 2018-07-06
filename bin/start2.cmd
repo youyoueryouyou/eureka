@@ -1,0 +1,1 @@
+java -jar ../target/eureka-0.0.1-SNAPSHOT.jar --spring.config.location=classpath:/application.properties,classpath:/application-server2.properties
